@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about discrete choice models, game theory, deep reinforcement learning etc...
+- 🌱 I’m currently learning about
+  - discrete choice models
+  - game theory
+  - deep reinforcement learning
+    etc...
 
 <!--
 **stk-tokyo/stk-tokyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
